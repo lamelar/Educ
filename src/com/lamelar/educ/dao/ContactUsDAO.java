@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.internousdev.educ.dao;
+package com.lamelar.educ.dao;
 
 import java.net.UnknownHostException;
 

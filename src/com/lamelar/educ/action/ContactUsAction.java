@@ -1,9 +1,9 @@
 /**
  * 
  */
-package com.internousdev.educ.action;
+package com.lamelar.educ.action;
 
-import com.internousdev.educ.dao.ContactUsDAO;
+import com.lamelar.educ.dao.ContactUsDAO;
 import com.opensymphony.xwork2.ActionSupport;
 
 /**

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.internousdev.educ.util;
+package com.lamelar.educ.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

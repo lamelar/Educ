@@ -1,15 +1,15 @@
 /**
  * 
  */
-package com.internousdev.educ.dao;
+package com.lamelar.educ.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.internousdev.educ.dto.LoginDTO;
-import com.internousdev.educ.util.DBConnector;
+import com.lamelar.educ.dto.LoginDTO;
+import com.lamelar.educ.util.DBConnector;
 
 /**
  * @author hideki

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.internousdev.educ.dto;
+package com.lamelar.educ.dto;
 
 /**
  * @author hideki

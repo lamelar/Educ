@@ -5,4 +5,4 @@
  * @author hideki
  *
  */
-package com.internousdev.educ.dao;
+package com.lamelar.educ.dao;

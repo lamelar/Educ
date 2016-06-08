@@ -5,4 +5,4 @@
  * @author hideki
  *
  */
-package com.internousdev.educ.util;
+package com.lamelar.educ.action;

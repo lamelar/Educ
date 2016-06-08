@@ -1,14 +1,14 @@
 /**
  * 
  */
-package com.internousdev.educ.action;
+package com.lamelar.educ.action;
 
 import java.util.Map;
 
 import org.apache.struts2.interceptor.SessionAware;
 
-import com.internousdev.educ.dao.LoginDAO;
-import com.internousdev.educ.dto.LoginDTO;
+import com.lamelar.educ.dao.LoginDAO;
+import com.lamelar.educ.dto.LoginDTO;
 import com.opensymphony.xwork2.ActionSupport;
 
 /**

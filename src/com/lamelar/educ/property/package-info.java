@@ -5,4 +5,4 @@
  * @author hideki
  *
  */
-package com.internousdev.educ.dto;
+package com.lamelar.educ.property;
