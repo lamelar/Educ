@@ -1,6 +1,6 @@
-drop database if exists openconnect;
-create database openconnect;
-use openconnect;
+drop database if exists educ;
+create database educ;
+use educ;
 create table user(
   id int,
   user_name varchar(255),
